@@ -1,3 +1,3 @@
 # DEMO
 
-Ide írom az első szöveget.
+Ide írom az első szöveget!
